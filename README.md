@@ -11,6 +11,7 @@ Please read the documents on OpenBLAS wiki pages <http://github.com/xianyi/OpenB
 ## Upennalizers:
 INSTALLATION (FOR MAC):
  `git clone https://github.com/UPenn-RoboCup/OpenBLAS.git /usr/`
+ 
  `PREFIX=/usr/local make -C $OPENBLAS`
  
 INSTALLATION (FOR LINUX):
